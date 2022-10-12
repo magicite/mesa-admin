@@ -1,0 +1,6 @@
+[lustre-client]
+name=lustre-client
+baseurl=https://downloads.whamcloud.com/public/lustre/latest-release/el8.6/client
+# exclude=*debuginfo*
+gpgcheck=0
+enabled=1
